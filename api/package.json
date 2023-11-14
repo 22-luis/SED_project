@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/22-luis/SED_project#readme",
   "dependencies": {
-    "express": "^4.18.2",
-    "express-generator": "^4.16.1"
+    "express": "4.18.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"

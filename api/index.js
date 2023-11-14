@@ -3,7 +3,6 @@ const app = express()
 const port = process.env.port ?? 3000
 
 app.disable('x-powered-by')
-
 app.use(express.json())
 
 app.get('/', (req, res) => {
