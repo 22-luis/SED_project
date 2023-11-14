@@ -1,0 +1,16 @@
+//Get the reports
+GET http://localhost:3000/
+
+
+//Create a new report
+POST http://localhost:3000/forms
+Content-Type: application/json
+
+{
+    "name": "Jack",
+    "position": "guard",
+    "weather": "wind",
+    "tower": 1,
+    "pressure": 10,
+    "time": "20:00"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "sed_project",
+  "version": "1.0.0",
+  "description": "\"secure\" backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/22-luis/SED_project.git"
+  },
+  "author": "00016720",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/22-luis/SED_project/issues"
+  },
+  "homepage": "https://github.com/22-luis/SED_project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-generator": "^4.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
